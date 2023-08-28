@@ -2625,16 +2625,15 @@ axe-core@^4.6.2:
   resolved "https://registry.npmjs.org/axe-core/-/axe-core-4.7.2.tgz"
   integrity sha512-zIURGIS1E1Q4pcrMjp+nnEh+16G56eG/MUllJH8yEvw7asDo7Ac9uhC9KIH5jzpITueEZolfYglnCGIuSBz39g==
 
-axios-mock-adapter@^1.20.0:
-  version "1.20.0"
-  resolved "https://registry.npmjs.org/axios-mock-adapter/-/axios-mock-adapter-1.20.0.tgz"
-  integrity sha512-shZRhTjLP0WWdcvHKf3rH3iW9deb3UdKbdnKUoHmmsnBhVXN3sjPJM6ZvQ2r/ywgvBVQrMnjrSyQab60G1sr2w==
+axios-mock-adapter@^1.21.5:
+  version "1.21.5"
+  resolved "https://registry.npmjs.org/axios-mock-adapter/-/axios-mock-adapter-1.21.5.tgz"
+  integrity sha512-5NI1V/VK+8+JeTF8niqOowuysA4b8mGzdlMN/QnTnoXbYh4HZSNiopsDclN2g/m85+G++IrEtUdZaQ3GnaMsSA==
   dependencies:
     fast-deep-equal "^3.1.3"
-    is-blob "^2.1.0"
     is-buffer "^2.0.5"
 
-axios@^0.26.1, "axios@>= 0.9.0":
+axios@^0.26.1, "axios@>= 0.17.0":
   version "0.26.1"
   resolved "https://registry.npmjs.org/axios/-/axios-0.26.1.tgz"
   integrity sha512-fPwcX4EvnSHuInCMItEhAGnaSEXRBjtzh9fOtsE6E1G6p7vl7edEeZe11QHf18+6+9gR5PbKV/sGKNaD8YaMeA==
@@ -5313,11 +5312,6 @@ is-binary-path@~2.1.0:
   integrity sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw==
   dependencies:
     binary-extensions "^2.0.0"
-
-is-blob@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/is-blob/-/is-blob-2.1.0.tgz"
-  integrity sha512-SZ/fTft5eUhQM6oF/ZaASFDEdbFVe89Imltn9uZr03wdKMcWNVYSMjQPFtg05QuNkt5l5c135ElvXEQG0rk4tw==
 
 is-boolean-object@^1.1.0:
   version "1.1.2"
